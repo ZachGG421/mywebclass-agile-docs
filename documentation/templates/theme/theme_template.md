@@ -14,5 +14,5 @@ This will set us up for a long-term benefit, as we will have created a valuable 
 
 # List initiatives related to this theme
 1. Web Development Training Program
-2. Web Development Community Forum
-3. Enhancing User Experience of Website
+2. Agile Process Improvement
+3. Web Development Community Forum

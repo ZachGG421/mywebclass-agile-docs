@@ -48,4 +48,6 @@ Web Development Experts - responsible for developing the curriculum for the trai
 Web Developers - responsible for delivering the training program to participants.
 
 # List epics related to this theme
-1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
+1. Beginner Web Development Course
+2. Advanced Web Development Course
+3. Web Development Certification Program

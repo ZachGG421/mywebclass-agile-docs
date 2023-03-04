@@ -1,16 +1,12 @@
-"As a [user role], I want to [do something] so that [achieve a specific goal]."
-
-By following this template, you can create user stories that are structured and easy to understand. To make the user story even more effective, you can add acceptance criteria that specify the requirements that must be met to consider the user story complete. Here's an example of a user story with acceptance criteria:
-
-"As a customer, I want to view my order history so that I can track my past purchases."
+"As a beginner web developer, I want to have access to a step-by-step guide for building a website so that I can apply my knowledge and build a website on my own."
 
 Acceptance Criteria:
 
-The order history page displays a list of all past orders, including the date, order number, and total cost.
-Each order in the list is clickable and leads to a detailed view of the order.
-The detailed view of the order includes the list of items purchased, the quantities, the prices, and any discounts applied.
-The order history page can be accessed from the customer account dashboard.
-The order history page is only accessible to authenticated customers.
+The guide should cover the fundamentals of HTML, CSS, and JavaScript.
+The guide should provide clear and concise explanations of complex concepts.
+The guide should include hands-on exercises to help learners apply their knowledge.
+The guide should be accessible to learners of all backgrounds.
+The guide should result in the successful creation of a website by the end of the course.
 
 
 # List Stories related to this theme
